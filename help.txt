@@ -1,0 +1,21 @@
+1. sudo apt update
+2. sudo apt install ....
+
+
+python3 --version
+
+
+1. sudo apt update
+2. sudo apt install python3
+3. sudo apt install python3-venv
+
+1. python3 -m venv venv 
+2. source venv/bin/activate
+3. deactiveate
+
+1. pip install flet[all]
+
+
+libmpv1
+1. sudo apt install libmpv1
+
